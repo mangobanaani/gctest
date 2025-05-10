@@ -1,3 +1,4 @@
+
 steps:
 # Build the Docker image and tag it for Artifact Registry
 - name: 'gcr.io/cloud-builders/docker'
